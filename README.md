@@ -8,7 +8,7 @@ Below is a sneak peek at what has been introduced thus far:
 
 ![Preview GIF](./react-landing-page.gif)
 
-## Follow these steps to run the app using powershell terminal inside visualCode:
+## Follow these steps to run the app using powershell terminal inside Visual Code Studio:
 
 Change to root folder:
 ### `cd landing-page`
