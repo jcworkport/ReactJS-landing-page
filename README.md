@@ -8,10 +8,6 @@ Below is a sneak peek at what has been introduced thus far:
 
 ![Preview GIF](./react-landing-page.gif)
 
-# Getting Started: Running this app on Vite
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Follow these steps to run the app using powershell terminal inside visualCode:
 
 Change to root folder:
