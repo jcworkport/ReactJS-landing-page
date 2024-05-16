@@ -6,7 +6,7 @@ Welcome ! This project is an ongoing endeavor, beginning as a simple landing pag
 
 Below is a sneak peek at what has been introduced thus far:
 
-![Preview GIF](./reactJS-landing-page.gif)
+![Preview GIF](./react-landing-page.gif)
 
 # Getting Started with Create React App
 
