@@ -11,7 +11,7 @@ Below is a sneak peek at what has been introduced thus far:
 ## Follow these steps to run the app using powershell terminal inside Visual Code Studio:
 
 Change to root folder:
-### `cd landing-page`
+### `cd react-landing-page`
 
 Install dependencies
 ### `npm install`
