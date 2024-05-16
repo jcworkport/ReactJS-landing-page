@@ -1,3 +1,13 @@
+# React Landing Page
+
+Welcome ! This project is an ongoing endeavor, beginning as a simple landing page built in React.JS, with exciting new features on the horizon.
+
+## Preview
+
+Below is a sneak peek at what has been introduced thus far:
+
+![Preview GIF](https://github.com/jcworkport/landing-page/blob/main/landing-page/reactJS-landing-page.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
